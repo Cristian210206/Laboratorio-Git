@@ -93,4 +93,3 @@
 - Haz un push de los cambios al repositorio en GitHub.
 
     <img src="./Imagenes/Screenshot_23.png">
-hh
